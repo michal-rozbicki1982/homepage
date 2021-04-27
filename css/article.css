@@ -1,0 +1,21 @@
+.article {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.article__subHeader {
+    border-bottom: 2px solid black;
+    text-shadow: 3px 3px 6px gray;
+}
+
+.article__paragraph {
+    line-height: 2.5;
+}
+
+.article__time, .article__bilard, .article__skates {
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+}
